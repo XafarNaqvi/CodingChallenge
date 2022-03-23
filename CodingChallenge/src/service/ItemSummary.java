@@ -1,3 +1,8 @@
+package service;
+
+import constants.SalesConstants;
+import model.Item;
+
 import java.math.BigDecimal;
 import java.util.List;
 

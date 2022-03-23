@@ -1,3 +1,5 @@
+package constants;
+
 import java.math.BigDecimal;
 
 public class SalesConstants {

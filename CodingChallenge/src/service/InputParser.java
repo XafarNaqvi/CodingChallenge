@@ -1,3 +1,8 @@
+package service;
+
+import constants.ItemType;
+import model.Item;
+
 import java.math.BigDecimal;
 
 public class InputParser {
