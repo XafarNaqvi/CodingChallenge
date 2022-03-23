@@ -47,3 +47,7 @@ Output 3:
 -I have slightly modified the input to first enter a digit representing the number of items in a receipt.
 -I did not round off the sales tax as the output 3 perfume wasn't rounded off so I was not sure whether I understood it correctly.
 -Any item not belonging to food,medicine,books will be considered as a "general" item.
+
+**Build Information**
+![image](https://user-images.githubusercontent.com/101716616/159683050-0756fb75-c63a-4c51-a29d-ad97f22d7234.png)
+->Using intellij-> Go to Run/Debug Configuration -> Select "Application"  -> Select appropiate JDK under Build and run and select "Main" class
